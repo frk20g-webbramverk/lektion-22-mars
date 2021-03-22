@@ -14,6 +14,9 @@ state: {
   activeCard: {}
 }
 ```
+**Todo-app**
+
+Övning: https://gist.github.com/zocom-christoffer-wallenberg/b02840c962900d48836dc4c06433f5a0
 
 ## Artiklar
 
