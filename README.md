@@ -3,6 +3,7 @@
 ## Övning
 
 **Lägg till Vuex i E-wallet**
+
 Lägg till Vuex i E-wallet. Korten ska sparas i en `Vuex store` och det aktiva kortet ska även det sparas i en `Vuex store`.
 
 Ditt state i din `Vuex store` bör alltså se ut något sånt här:
